@@ -1,3 +1,0 @@
-# AutomationTasks-Java-
-Epam
-WebDriver
